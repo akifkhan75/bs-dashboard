@@ -57,7 +57,7 @@ body {
 
 .sidebar .nav-link {
   font-weight: 500;
-  color: #333;
+  color: #8e9295;
 }
 
 .sidebar .nav-link .feather {
@@ -123,7 +123,7 @@ body {
     width: 35%;
     height: 100vh;
     top: 0;
-    right: -35%;
+    right: -40%;
     z-index: 120;
     padding: 55px 20px;
     box-shadow: 2px -3px 8px 8px #6f6e6e;
