@@ -12,7 +12,7 @@ body {
 
 /*
    * Sidebar
-   */
+  */
 .sidebar {
   position: fixed;
   top: 0;
@@ -125,5 +125,5 @@ body {
   background: rgba(0, 0, 0, 0.4);
   z-index: 110;
   transition: all 0.4s ease-in-out; }
-  .overlay .show {
+  .overlay.show {
     display: block; }
